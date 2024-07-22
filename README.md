@@ -13,15 +13,6 @@ AergoLang is a dedicated project aimed at translating the Aergo Developer Docume
 3. **Educational Outreach**: Organize workshops, webinars, and other educational events to promote the use of Aergo blockchain among French-speaking developers.
 4. **Community Engagement**: Engage with the French-speaking blockchain community to gather feedback and improve the quality and relevance of the translated documentation.
 
-## Project URL
-[AergoLang](http://aergolang.com)
-
-## Deck URL
-[AergoLang Project Deck](http://aergolang.com/deck)
-
-## Documentation
-[AergoLang Documentation](http://aergolang.com/docs)
-
 ## Project Scope
 
 ### Translation Details
@@ -60,10 +51,6 @@ AergoLang is a dedicated project aimed at translating the Aergo Developer Docume
 ## Community Involvement
 
 We encourage the French-speaking blockchain community to participate in this project by providing feedback, suggesting improvements, and contributing to the translation and educational efforts. Together, we can make Aergo blockchain technology more accessible and widely adopted.
-
-## Contributing
-
-If you are interested in contributing to the AergoLang project, please visit our GitHub repository for more information on how you can help.
 
 ## Contact
 
